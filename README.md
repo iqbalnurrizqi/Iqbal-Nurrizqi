@@ -1,2 +1,2 @@
-# PROFILE
+# Iqbal Nurrizqi
 My Portofolio
