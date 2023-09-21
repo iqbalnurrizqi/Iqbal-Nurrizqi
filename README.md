@@ -9,7 +9,9 @@ saya memiliki minat terhadap dunia tteknology terutama web developher dibidang f
 
 sejauh ini saya telah menyelesaikan beberapa sertifikasi dari dicoding.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/iqbal-nurrizqi/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/iqbal-nurrizqi/)ku ya. <br>
+
+Anda dapat melihat portofolio yang pernah saya buat disini https://portofolio-tailwind-nu.vercel.app/
 
 ### github statistik
 <p align="left">
