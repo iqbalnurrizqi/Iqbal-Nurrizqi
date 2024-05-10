@@ -11,7 +11,7 @@ sejauh ini saya telah menyelesaikan beberapa sertifikasi dari dicoding.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/iqbal-nurrizqi/)ku ya. <br>
 
-Anda dapat melihat portofolio yang pernah saya buat disini https://portofolio-tailwind-nu.vercel.app/
+Anda dapat melihat portofolio yang pernah saya buat disini [portofolio](https://portfolio-acernity.vercel.app/). dan lihat juga projectku yang lain [vercel](https://vercel.com/iqbal-nurrizqis-projects)
 
 ### github statistik
 <p align="left">
